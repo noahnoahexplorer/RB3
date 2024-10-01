@@ -5,3 +5,4 @@ plotly
 streamlit
 seaborn
 folium
+streamlit_folium
